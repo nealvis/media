@@ -1,1 +1,1 @@
-Pictures of faces cropped and licensed per licenses.txt file
+This directory has some cropped face pictures licensed via the licenses.txt file.
