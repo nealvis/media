@@ -1,0 +1,18 @@
+Licenses and attributions (when needed) for the video files in this directory are listed below.
+
+---
+File: elvis.png
+From: 
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
+---
+File: regan.png
+From: 
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
+---
+File: trump.png
+From: 
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
+---
+File: trump.png
+From: 
+License: CC0 (https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt)
